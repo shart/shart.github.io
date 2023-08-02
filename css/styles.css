@@ -1,6 +1,7 @@
 body {
     background-color: #ffe4c43;
-    color: grey;
+    color: #000;
+    border: solid #cdcdcd 0px 1px 0px 1px;
 }
 
 .avatar {
