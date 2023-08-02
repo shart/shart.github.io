@@ -1,3 +1,8 @@
+body {
+    background-color: #ffe4c43;
+    color: #fff;
+}
+
 .avatar {
     display: inline-block;
     width: 150px;
