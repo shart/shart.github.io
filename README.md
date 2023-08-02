@@ -1,4 +1,4 @@
-<span style="">![alt][def]</span>
+<img src="https://shart.github.io/img/steve_profile_round.png" width=150px height=150px />
 
 # Stephen Hart 
 ##### _Is FIddling With MD Formatting_
