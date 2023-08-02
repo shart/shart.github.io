@@ -1,7 +1,11 @@
+body{
+  background-color: rgba(255, 255, 255, 1.0);
+}
+
 .container {
-    background-color: #ffe4c43;
-    color: #000;
-    border: solid #cdcdcd 0px 1px 0px 1px;
+    background-color: rgba(204, 204, 204, 1.0);
+    color: rgb(0, 0, 0);
+    border: solid rgba(205, 205, 205, 1.0) 0px 1px 0px 1px;
 }
 
 .avatar {
