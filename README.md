@@ -1,4 +1,4 @@
-![alt][def]
+<span style="">![alt][def]</span>
 
 # Stephen Hart 
 ##### _Is FIddling With MD Formatting_
@@ -13,4 +13,4 @@
 |Footer Column 1|Footer Column 2|Footer Column 3|
 |---------------|---------------|---------------|
 
-[def]: https://shart.github.io/img/steve_profile.jpg
+[def]: https://shart.github.io/img/steve_profile_round.jpg
